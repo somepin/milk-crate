@@ -1,6 +1,6 @@
 # Milk Crate
 
-Another 2% milk-themed meme board, for your extra unused base kit/novelty ISO keys. Inspired by [Spaceboards/2% Milk](https://github.com/Spaceman/Spaceboards/tree/master/Keyboards/2%25%20Milk).
+Another milk-themed meme board, for your extra unused base kit/novelty ISO keys. Inspired by [Spaceboards/2% Milk](https://github.com/Spaceman/Spaceboards/tree/master/Keyboards/2%25%20Milk).
 
 Keyboard Maintainer: [somepin](https://github.com/somepin)
 
